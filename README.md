@@ -1,9 +1,7 @@
-# Student-Portfolio
-My portfolio showcasing skills, projects, achievements, and learning activities as an MBA student.
 # Student Portfolio
 
 ## About Me
-I am an MBA student specializing in Finance and Human Resources. I am interested in HR ,Finance and BDE and understanding how businesses operate.
+I am an MBA student specializing in Finance and Human Resources. I am interested in business, financial analysis, human resources, and understanding how organizations operate.
 
 I enjoy learning new skills, working on projects, analyzing business problems, and collaborating with people.
 
@@ -17,25 +15,31 @@ I enjoy learning new skills, working on projects, analyzing business problems, a
 - Teamwork
 
 ## Projects
-- Performance Appraisal System Analysis
+- [Performance Appraisal System Analysis](projects/Performance-Appraisal/README.md)
 - ABT Travel Policy Benchmarking
-- Financial Comparison of Marico and Dabur
-- Data Visualization and Dashboard Projects
+- Marico vs Dabur Financial Comparison
+- Power BI Dashboard Project
 
 ## Achievements
 - Best Volunteer Award
 - Student Head – BBA Department
-- Participated in academic research and college activities
+- Academic and research participation
+- Volunteering and event coordination
 
 ## Learning Activities
 - Learning SQL
-- Learning financial modelling
-- Learning Git and GitHub
-- learning Python
+- Learning Python
+- Financial Modelling
+- Git and GitHub
 - Participating in workshops and professional development programmes
 
 ## Career Interests
-HR | Business Research | Finance and Security analysis
+- Human Resources
+- Business Analytics
+- Financial Analysis
+- Business Research
+- Business Development
 
 ---
-*This portfolio documents my academic projects, skills, achievements, and continuous learning journey.*
+
+This portfolio showcases my skills, projects, achievements, and continuous learning journey.
